@@ -1,3 +1,3 @@
 import mongoose, {Schema} from 'mongoose';
 
-const ProductSchema = new Schema {}
+// const ProductSchema = new Schema {}
